@@ -1,0 +1,40 @@
+.col {
+    color: orange;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0%;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+section {
+    display: flex;
+}
+
+.half-width {
+    width: 50%;
+    padding-left: 10%;
+
+}
+
+.half-width img {
+    width: 80%;
+}
+
+.deco {
+    text-decoration: none;
+    background-image: linear-gradient(rgb(0, 123, 255), rgb(0, 208, 255));
+    color: aliceblue;
+    font-weight: 700;
+    padding: 10px 30px;
+    border-radius: 20px;
+}
+
+.top {
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
